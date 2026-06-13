@@ -17,7 +17,11 @@ function AttentionClub() {
           Attention Club: Show and Tell
         </h1>
 
-        
+        <img
+          src="/examining%20antiques.jpg"
+          alt="People examining antiques at Attention Club"
+          className="mb-10 w-full rounded-lg object-cover"
+        />
 
         <p className="mb-10 text-[1.0625rem] leading-relaxed text-[#9a958c]">
           It seems like there’s a shortage of attention out there! Let’s cultivate ours as we
