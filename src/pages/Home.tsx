@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 const currentEvents = [
   {
-    title: 'Attention Club: Show and Tell',
+    title: 'Attention Club',
     schedule: 'Thursdays at 3pm',
     to: '/attention-club',
   },
