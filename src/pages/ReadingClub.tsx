@@ -26,6 +26,12 @@ function ReadingClub() {
           Bring-a-Book Reading Club
         </h1>
 
+        <img
+          src="/reading%20group%20zuzalu.png"
+          alt="Reading club at Zuzalu Library"
+          className="mb-10 w-full rounded-lg object-cover"
+        />
+
         <p className="mb-10 text-[1.0625rem] leading-relaxed text-[#9a958c]">
           This is for anyone who’d like to spend more slow time reading without distractions. Bring a
           book or e-reader and let’s enjoy some quiet reading time together. We ask that participants
