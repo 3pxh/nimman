@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import AttentionClub from './pages/AttentionClub.tsx'
 import Home from './pages/Home.tsx'
+import ReadingClub from './pages/ReadingClub.tsx'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/attention-club" element={<AttentionClub />} />
+        <Route path="/reading-club" element={<ReadingClub />} />
       </Routes>
     </BrowserRouter>
   )
