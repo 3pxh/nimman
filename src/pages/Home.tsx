@@ -46,7 +46,7 @@ function Home() {
           </ul>
         </section>
 
-        <section>
+        <section className="mb-10">
           <h2 className="mb-4 text-sm font-medium tracking-[0.2em] text-[#c4a96a] uppercase">
             Calendars
           </h2>
@@ -68,6 +68,15 @@ function Home() {
               Luma
             </a>
           </div>
+        </section>
+
+        <section>
+          <img
+            src="/qr.png"
+            alt="QR code for nimman.org"
+            className="mx-auto w-40 rounded-lg"
+          />
+          <p className="mt-3 text-sm text-[#9a958c]">nimman.org</p>
         </section>
       </div>
     </main>
