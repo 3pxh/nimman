@@ -57,7 +57,7 @@ function ReadingClub() {
             When & Where
           </h2>
           <p className="mb-3 text-[1.0625rem] leading-relaxed text-[#f5f3ef]">
-            Sunday, June 21 at 10am
+            Sundays at 10am, Thursdays at 1pm
           </p>
           <p className="text-[1.0625rem] leading-relaxed text-[#9a958c]">
             Zuzalu Library
