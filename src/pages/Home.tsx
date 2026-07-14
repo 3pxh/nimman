@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 const currentEvents = [
   {
     title: 'Bring-a-Book Reading Club',
-    schedule: 'Sundays at 10am, Thursdays at 1pm',
+    schedule: 'Sundays and Thursdays at 10am',
     to: '/reading-club',
   },
 ]
