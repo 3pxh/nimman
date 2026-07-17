@@ -55,14 +55,6 @@ function Home() {
               Meetup
             </a>
             <a
-              href="https://luma.com/calendar/cal-BK1XRFwdIOgCNmG"
-              target="_blank"
-              rel="noopener noreferrer"
-              className={linkClassName}
-            >
-              Luma
-            </a>
-            <a
               href="https://calendar.google.com/calendar/u/6?cid=MGI1OWRlYmUzY2Q3MTEyNjQ1MjZlYTZkNmQ0YjQwYjMwNzAwYTVmNjIxYTZjYzNmYjNmMTI1YjJlODhmMzY5NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
               target="_blank"
               rel="noopener noreferrer"

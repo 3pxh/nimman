@@ -87,14 +87,6 @@ function ReadingClub() {
             >
               Meetup
             </a>
-            <a
-              href="https://luma.com/4u9wiysu"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center rounded-full border border-[#c4a96a]/40 px-5 py-2.5 text-sm font-medium text-[#f5f3ef] transition-colors hover:border-[#c4a96a] hover:bg-[#c4a96a]/10"
-            >
-              Luma
-            </a>
           </div>
         </section>
       </div>
